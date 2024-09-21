@@ -1,0 +1,1 @@
+Java -Xmx3G -jar CatServer-5a600445-universal.jar
